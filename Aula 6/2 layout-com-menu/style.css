@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+}
+nav menu{
+    
+}
+    #menu {
+        background-color: rgba(172, 255, 47, 0.602);
+        padding: 3px;
+    }
+    #menu ul{
+        margin: 0px;
+        padding: 10px;
+    }
+    #menu ul li{
+        display: inline;   
+    }
+    #menu ul li a{
+    list-style: none;
+    text-decoration: none;
+    padding-inline: 8px;
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    }
+    #menu ul li a:hover{
+        background-color: rgba(255, 255, 255, 0.537);
+        color: black;
+        border-bottom: 1px solid black;
+        padding: 8px;
+    }
+#header{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 200px;
+    /*cor de fundo*/
+    background-color: rgba(0, 0, 255, 0.443);
+}
+#conteudo{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: azure;
+}
+#conteudo-left{
+    /*largura*/
+    width:30%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: mediumaquamarine;
+    float: left;
+}
+#conteudo-center{
+    /*largura*/
+    width:50%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: azure;
+    float: left;
+}
+#conteudo-right{
+    /*largura*/
+    width:20%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: mediumaquamarine;
+    float: left;
+}
+
+#footer{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 100px;
+    /*cor de fundo*/
+    background-color: darkturquoise;
+}

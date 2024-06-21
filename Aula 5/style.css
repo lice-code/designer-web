@@ -1,0 +1,52 @@
+#header{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 200px;
+    /*cor de fundo*/
+    background-color: cadetblue;
+}
+#conteudo{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: azure;
+}
+#conteudo-left{
+    /*largura*/
+    width:30%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: mediumaquamarine;
+    float: left;
+}
+#conteudo-center{
+    /*largura*/
+    width:50%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: azure;
+    float: left;
+}
+#conteudo-right{
+    /*largura*/
+    width:20%;
+    /*altura*/
+    height: 550px;
+    /*cor de fundo*/
+    background-color: mediumaquamarine;
+    float: left;
+}
+
+#footer{
+    /*largura*/
+    width: 100%;
+    /*altura*/
+    height: 100px;
+    /*cor de fundo*/
+    background-color: darkturquoise;
+}

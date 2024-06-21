@@ -1,0 +1,32 @@
+h1{
+    color:aqua;
+}
+p{
+    font-size:50px;
+}
+#tituloPrincipal{
+    color:darkcyan;
+}
+.destaque{
+    font-weight: bold;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+}
+.header{
+    background-color: #f0f0f0;
+    padding:10px;
+    text-align: center;
+}
+.main-content{
+    margin: 20px;
+    padding: 10px;
+}
+.footer{
+    background-color: #ccc;
+    padding: 10px;
+    text-align: center;
+}
